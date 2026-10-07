@@ -1,0 +1,27 @@
+{
+  "name": "E-3901 Fracionadora Meio Concept",
+  "short_name": "E-3901 Meio",
+  "description": "E-3901 Fracionadora Meio Concept V2.4: quiz e avaliação CIC de nível avançado, alternativas plausíveis, respostas A/B/C/D balanceadas, cenários com hipóteses concorrentes e operações unitárias aprofundadas.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#07111f",
+  "theme_color": "#0f172a",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
